@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+hello hi<<<<<<< HEAD
 hello i am dev branch  
 =======
 hello 
